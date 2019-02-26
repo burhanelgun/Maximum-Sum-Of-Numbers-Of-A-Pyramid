@@ -6,5 +6,3 @@
 
 ## Screenshot
 ![alt text](screenshot.png)
-
-"# Maximum-Sum-Of-Numbers-Of-A-Pyramid" 
